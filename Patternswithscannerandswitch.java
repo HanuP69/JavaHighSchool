@@ -54,6 +54,7 @@ class Patterns{
                             for(int j = 1; j<=i; j++){
                                 System.out.print(2*i);}
                                 System.out.println();}
+break;
                 case 9:
                 System.out.print("print till which no.?---");
                 System.out.println();
