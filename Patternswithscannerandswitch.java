@@ -56,7 +56,7 @@ class Patterns{
                                 System.out.println();}
 break;
                 case 9:
-                System.out.print("print till which no.?---");
+                System.out.print("print till which no. till 10?");
                 System.out.println();
                 int x = sc.nextInt();
                 for(int i = 1; i<=(n+1); i++){
